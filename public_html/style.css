@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-family: arial;
+    font-size: 18pt;
+    background-image: url("pat.jpg");
+    background-size: 100%;
+}
+
+body:hover {
+    background-color: rgb(93, 60, 0);
+    color: green;
+    font-family: arial;
+    font-size: 18pt;
+    background-image: url("pat.jpeg");
+    background-size: 100%;
+}
